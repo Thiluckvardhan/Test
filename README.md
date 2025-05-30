@@ -231,7 +231,7 @@ For more details, please refer to the [LICENSE](LICENSE) file in this repository
 ## 👨‍💻 Author
 
 **Thiluck vardhan Vemula**  
-GitHub: [@Thiluck vardhan](https://github.com/Thiluckvardhan)  
+GitHub: [@Thiluckvardhan](https://github.com/Thiluckvardhan)  
 
 ---
 
