@@ -230,7 +230,7 @@ For more details, please refer to the [LICENSE](LICENSE) file in this repository
 
 ## 👨‍💻 Author
 
-**Thiluck vardhan Vemula**  
+**Thiluckvardhan**  
 GitHub: [@Thiluckvardhan](https://github.com/Thiluckvardhan)  
 
 ---
